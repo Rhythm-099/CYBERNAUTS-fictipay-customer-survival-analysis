@@ -1,0 +1,16 @@
+data/
+public/
+work/
+outputs/*
+!outputs/.gitkeep
+*.parquet
+*.csv
+*.npz
+*.pkl
+*.joblib
+*.model
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
